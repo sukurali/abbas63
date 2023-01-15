@@ -112,7 +112,7 @@ button:focus{
 	color: #ccc;
 }
 a.navbar-brand {
-	left: 35px;
+	left: 25px;
 	position: relative;
 	color: #fff;
 	font-size: 30px;
@@ -381,9 +381,6 @@ button.btn.btn-primary {
    background-color: var(--second-bg-color);
    color: var(--text-color);
 }
-.date {
-    color: #c1bfbf;
-}
 .certification_content {
    padding: 35px 30px;
    border-radius: 8px;
@@ -393,6 +390,9 @@ button.btn.btn-primary {
    cursor: pointer;
    transition: all .45s ease;
 
+}
+.date {
+   color: #c1bfbf;
 }
 .certification_content:hover {
     transform: translateY(-8px);
