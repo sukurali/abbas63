@@ -33,6 +33,15 @@
         padding-top:50px;
         padding-left:10px;
     }
+    .side_pic_cont{
+        flex-direction: column;
+        align-items: flex-start;
+        
+      }
+      .University_pic{
+        padding-top:20px;
+        width: 50%;
+      }
     .home-text h1{
         font-size: 3.2rem;
         font-weight: 700;
